@@ -16,7 +16,7 @@ boton.addEventListener('click', function () {
         mostrarDatos(posts)
     })
 
-}); // Agregando comment para testear el GIT
+}); // Agregando comment para testear el GIT nuevamente
 
 function mostrarDatos(posts) {
     posts.map((post, i) => {
